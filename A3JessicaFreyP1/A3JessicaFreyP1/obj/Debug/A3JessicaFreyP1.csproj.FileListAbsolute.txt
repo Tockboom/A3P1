@@ -1,0 +1,6 @@
+C:\Users\Jessica\Documents\Fundamentals\A3JessicaFreyP1\A3JessicaFreyP1\bin\Debug\A3JessicaFreyP1.exe.config
+C:\Users\Jessica\Documents\Fundamentals\A3JessicaFreyP1\A3JessicaFreyP1\obj\Debug\A3JessicaFreyP1.csprojResolveAssemblyReference.cache
+C:\Users\Jessica\Documents\Fundamentals\A3JessicaFreyP1\A3JessicaFreyP1\bin\Debug\A3JessicaFreyP1.exe
+C:\Users\Jessica\Documents\Fundamentals\A3JessicaFreyP1\A3JessicaFreyP1\bin\Debug\A3JessicaFreyP1.pdb
+C:\Users\Jessica\Documents\Fundamentals\A3JessicaFreyP1\A3JessicaFreyP1\obj\Debug\A3JessicaFreyP1.exe
+C:\Users\Jessica\Documents\Fundamentals\A3JessicaFreyP1\A3JessicaFreyP1\obj\Debug\A3JessicaFreyP1.pdb
